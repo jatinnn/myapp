@@ -19,6 +19,8 @@ gem 'turbolinks', '5.0.0.beta2'
 gem 'jbuilder', '2.4.1'
 # Use postgresql as the database for Active Record
 gem 'pg', '0.18.4'
+# Bootstrap Framework
+gem 'bootstrap-sass', '3.3.6'
 
 # See https://github.com/rails/execjs#readme for more supported runtimes
 # gem 'therubyracer', platforms: :ruby
